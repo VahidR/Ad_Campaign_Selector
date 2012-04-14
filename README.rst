@@ -1,3 +1,3 @@
 Ad Campaign Selector
 -----------
-a Java Program that select the best possible Ad Campaigns for B2B companies
+a Java Program that selects the best possible Ad Campaigns for B2B companies
